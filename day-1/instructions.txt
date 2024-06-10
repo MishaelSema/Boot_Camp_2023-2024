@@ -1,0 +1,12 @@
+Taf 1:
+
+1- Created a Django Sponsors project.
+2- Created an application called packs.
+
+App features:
+
+- Displays the different packs with descriptions of each pack.
+- allow users to subscribe to the packs that interest them through a form.
+- created a personalized pack allowing users to choose the different types of things that interest them.
+
+Nb: the CSS and design must be perfect green, white and black color
